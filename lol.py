@@ -7,4 +7,6 @@ def res():
     print(Style.RESET_ALL)
 
 while True:
-    
+    tsu = input('$')
+    if tsu == '1':
+        
