@@ -6,6 +6,11 @@ print ('\n')
 def res():
     print(Style.RESET_ALL)
 
+os.system('clear')
+
+
+
+
 while True:
     tsu = input('$')
     if tsu == '1':
