@@ -8,10 +8,19 @@ def res():
 
 os.system('clear')
 
+print('Welcome to Termux!')
+print('\n')
+print('Community forum: https://termux.com/community')
+print('Gitter chat:     https://gitter.im/termux/termux')
+
+
+
+
+
 
 
 
 while True:
-    tsu = input('$')
+    tsu = input('$ ')
     if tsu == '':
         os.system
