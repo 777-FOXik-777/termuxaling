@@ -13,5 +13,5 @@ os.system('clear')
 
 while True:
     tsu = input('$')
-    if tsu == '1':
-        
+    if tsu == '':
+        os.system
