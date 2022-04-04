@@ -7,7 +7,7 @@ def res():
     print(Style.RESET_ALL)
 
 os.system('clear')
-
+print(' ')
 print('Welcome to Termux!')
 print(' ')
 print('Community forum: https://termux.com/community')
@@ -27,6 +27,8 @@ print(' * X11:      pkg install x11-repo')
 print(' ')
 print('Report issues at https://termux.com/issues')
 print(' ')
+
+
 while True:
     tsu = input('$ ')
     if tsu == '':
