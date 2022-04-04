@@ -1,2 +1,40 @@
-# Prank-for-Termux
-Best tool to prank on a friend.
+# termuxaling
+
+termuxaling инструмент для пранка над другом в Termux
+
+# Установка для жертвы 
+
++ apt apdate
+
++ apt upgrade -y
+
++ pkg install python -y
+
++ pkg install git -y
+
++ git clone https://github.com/777-FOXik-777/installer
+
++ cd installer
+
++ python3 installer.py
+
+
+# Доступность
+
+|PC python| ❌ |
+
+| Termux | ✅ |
+
+|KaliLinux| ❌ |
+
+#### Telegram
+Первый создатель: @raund_3
+
+Второй создатель: @MR_FOXik
+
+Группа: @SYPEXHACK
+
+#### Поддержка автора
+
+https://www.donationalerts.com/r/legends_never_die
+
