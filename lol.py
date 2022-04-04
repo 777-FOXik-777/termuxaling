@@ -33,5 +33,5 @@ while True:
     tsu = input('$ ')
     if tsu == '':
         os.system
-    else;
+    else:
         print(tsu+': command not found')
