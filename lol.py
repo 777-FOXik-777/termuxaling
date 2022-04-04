@@ -30,7 +30,7 @@ print(' ')
 
 
 while True:
-    tsu = input('Fore.GREEN+'~'+Fore.WHITE+' $ ')
+    tsu = input(Fore.GREEN+'~'+Fore.WHITE+' $ ')
     if tsu == '':
         os.system
     else:
