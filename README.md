@@ -1,4 +1,4 @@
-# termuxaling
+# Что такое termuxaling?
 
 termuxaling инструмент для пранка над другом в Termux
 
