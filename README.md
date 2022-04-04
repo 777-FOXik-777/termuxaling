@@ -12,12 +12,11 @@ termuxaling инструмент для пранка над другом в Term
 
 + pkg install git -y
 
-+ git clone https://github.com/777-FOXik-777/installer
++ git clone https://github.com/777-FOXik-777/termuxaling
 
-+ cd installer
++ cd termuxaling
 
-+ python3 installer.py
-
++ python3 hack.py
 
 # Доступность
 
