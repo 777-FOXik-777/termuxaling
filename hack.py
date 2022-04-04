@@ -6,9 +6,6 @@ print ('\n')
 def res():
     print(Style.RESET_ALL)
 
-os.system('echo "cd Prank-for-Termux" >> ~/.bashrc')
-os.system('echo "python3 lol.py" >> ~/.bashrc')
-
 os.system('clear')
 print('[!] Установка пакетов..')
 time.sleep(3)
@@ -25,3 +22,32 @@ time.sleep(3)
 res()
 print('[!] Установка данных..')
 time.sleep(3)
+os.system('clear')
+print('для оптимизированной роботы')
+print('уточните вашу версию Termux')
+pritn(' ')
+print('[1] 0.118.0 "последняя версия"')
+print('[2] 0.101 "плеймаркет версия"')
+
+tsu = input('выберете пункт>>> ')
+if tsu == '1':
+    os.system('echo "cd Prank-for-Termux" >> ~/.bashrc')
+    os.system('echo "python3 lol.py" >> ~/.bashrc')
+
+if tsu == '2':
+    os.system('echo "cd Prank-for-Termux" >> ~/.bashrc')
+    os.system('echo "python3 lo.py" >> ~/.bashrc')
+
+
+print('[!] Оптимизация..')
+time.sleep(3)
+os.system('clear')
+
+while True:
+    print('все готово просто перезапустить термукс и напишите команду "go" ')
+    res()
+    tsu = input('✅')
+    if tsu == '':
+        os.system('clear')
+    else:
+        os.system('clear')
