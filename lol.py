@@ -6,6 +6,7 @@ print ('\n')
 def res():
     print(Style.RESET_ALL)
 
+os.system('cd')
 os.system('clear')
 print(' ')
 print('Welcome to Termux!')
