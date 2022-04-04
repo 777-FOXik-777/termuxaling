@@ -4,7 +4,7 @@ termuxaling инструмент для пранка над другом в Term
 
 # Установка для друга
 
-+ apt apdate
++ apt update
 
 + apt upgrade -y
 
