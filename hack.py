@@ -44,9 +44,9 @@ if tsu == '2':
     os.system('echo "python3 lo.py" >> ~/.bashrc')
 else:
     os.system('clear')
-    print(' вы допустили ошибку попробуйте ещё раз введите команду [ python3 hack.py ] ')
-    time.sleep(5)
-    os.system('exit')
+    print(' вы допустили ошибку попробуйте ещё, создайте второй сезон')
+    print(' и введите команду "python3 hack.py" ')
+    time.sleep(9999)
 
 os.system('clear')
 print('[!] Оптимизация..')
