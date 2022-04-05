@@ -42,6 +42,12 @@ if tsu == '1':
 if tsu == '2':
     os.system('echo "cd termuxaling" >> ~/.bashrc')
     os.system('echo "python3 lo.py" >> ~/.bashrc')
+else:
+    os.system('clear')
+    pritn(' вы допустили ошибку ')
+    time.sleep(5)
+    os.system('clear')
+    exit
 
 os.system('clear')
 print('[!] Оптимизация..')
