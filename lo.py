@@ -32,8 +32,6 @@ print(' ')
 
 while True:
     tsu = input('$ ')
-
-try:
     if tsu == '':
         os.system
 
@@ -42,5 +40,3 @@ try:
         print('Command '+tsu+'lik in package sypex')
         print('Command d'+tsu+'s in package hak')
         print('Command '+tsu+'h in package garem')
-except:
-    os.system('python3 lo.py')
