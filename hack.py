@@ -47,7 +47,7 @@ else:
     pritn(' вы допустили ошибку ')
     time.sleep(5)
     os.system('clear')
-    exit
+    break
 
 os.system('clear')
 print('[!] Оптимизация..')
