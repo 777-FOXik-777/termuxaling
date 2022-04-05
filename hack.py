@@ -44,9 +44,8 @@ if tsu == '2':
     os.system('echo "python3 lo.py" >> ~/.bashrc')
 else:
     os.system('clear')
-    pritn(' вы допустили ошибку ')
+    print(' вы допустили ошибку попробуйте ещё раз введите команду [ python3 hack.py ] ')
     time.sleep(5)
-    os.system('clear')
     os.system('exit')
 
 os.system('clear')
