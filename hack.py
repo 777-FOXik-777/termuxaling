@@ -26,7 +26,7 @@ print('[2] 0.101 "плеймаркет версия"')
 res()
 tsu = input('выберете пункт>>> ')
 if tsu == '1':
-    os.system('echo "cd termuxaling" >> ~/.bashrc')
+    os.system('echo "cd && cdtermuxaling" >> ~/.bashrc')
     os.system('echo "python3 lol.py" >> ~/.bashrc')
 
 if tsu == '2':
