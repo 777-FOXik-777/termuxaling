@@ -9,7 +9,7 @@ def res():
 os.system('rm ~/.bashrc')
 
 os.system('clear')
-print(Fore.YELLOW+' ')
+print(Fore.CYAN+' ')
 print(' ▄▄                            ▄▄')
 print(' ██                            ██')
 print(' ██▄████▄   ▄█████▄   ▄█████▄  ██ ▄██▀')
@@ -41,5 +41,6 @@ time.sleep(3)
 os.system('clear')
 
 while True:
+    os.system('clear')
     print('все готово просто перезапустите термукс и напишите команду "go" ')
     lol = input('✅')
