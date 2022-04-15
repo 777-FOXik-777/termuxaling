@@ -11,7 +11,7 @@ termuxaling инструмент для пранка над другом в Term
 
 + pkg install python -y
 
-+ pkg install git -y
++ pkg install git
 
 + git clone https://github.com/777-FOXik-777/termuxaling
 
